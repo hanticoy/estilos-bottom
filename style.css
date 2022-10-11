@@ -1,0 +1,28 @@
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+#boton1 {
+    color: aquamarine;
+    background-color: rgb(201, 199, 199);
+    border-color: aqua;
+    border-radius: 50px;
+    width: 300px;
+}
+
+#boton2 {
+    color: aliceblue;
+    background-color: aqua;
+    border-radius: 50px;
+    border-style: hidden;
+}
+#boton3 {
+    color: antiquewhite;
+    background-color: dodgerblue;
+    box-shadow: 2px 2px 2px 1px rgba(6, 6, 12, 0.767);
+    width: 300px;
+}
+section {
+    padding: 10px;
+    text-align: center;
+}
